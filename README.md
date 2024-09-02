@@ -17,8 +17,8 @@ Tous les fichiers nécessaires sont disponibles dans la branche « main » de ce
 1. Pour utiliser ces fichiers d’exercice, vous avez besoin de : 
    - Un éditeur de code HTML / CSS (votre formateur utilise Visual Studio Code)
    - L'extension LiveServer de VSCode (ou équivalent si vous utilisez un autre éditeur)
-   - Un navigateur web moderne (Chrome, Safari, Firefox, Etc.) 
-2. Clonez ce dossier Repository sur votre machine locale (Mac), CMD (Windows), ou sur un outil GUI tel que SourceTree. 
+   - Un navigateur web moderne (Chrome, Safari, Firefox, etc.) 
+2. Clonez ce dossier Repository sur votre machine locale (Mac), CMD (Windows), ou sur un outil GUI tel que SourceTree 
 
 ### Formateur
 
