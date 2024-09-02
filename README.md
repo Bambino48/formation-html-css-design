@@ -6,13 +6,13 @@ Ce dossier Repository est lié au cours `L’intégration web : Coder un design 
 
 [Practice It: X | All Other [Project Mojo] Courses]
 
-Ce cours est intégré à GitHub Codespaces, un environnement de développement instantané « dans le nuage » qui offre toutes les fonctionnalités de votre IDE préféré sans nécessiter de configuration sur une machine locale. Avec Codespaces, vous pouvez vous exercer à partir de n'importe quelle machine, à tout moment, tout en utilisant un outil que vous êtes susceptible de rencontrer sur votre lieu de travail. Consultez la vidéo "Utilisation de Codespaces GitHub dans le cadre de ce cours" pour savoir comment démarrer.    
+"Apprenez à transformer une maquette réalisée par un designer en une page web interactive et responsive grâce à cette formation sur l'intégration web en HTML et CSS. Vous serez guidé par Damien Bruyndonckx, développeur web et formateur certifié, à travers chaque étape du processus, depuis l'analyse de la maquette jusqu'à la finalisation du site. Vous découvrirez comment structurer votre projet, coder des éléments complexes, et adapter votre design aux différents types d’écrans. Préparez-vous à acquérir les compétences essentielles pour maîtriser l'intégration web.
 
-DESCRIPTION DE LA FORMATION
+Ce cours est intégré à GitHub Codespaces, un environnement de développement instantané « dans le cloud » qui offre toutes les fonctionnalités de votre IDE préféré sans nécessiter de configuration sur une machine locale. Avec Codespaces, vous pouvez vous exercer à partir de n'importe quelle machine, à tout moment, tout en utilisant un outil que vous êtes susceptible de rencontrer sur votre lieu de travail. Consultez la vidéo « Découvrir et installer les outils nécessaires » pour savoir comment démarrer.    
 
 ## Instructions
 
-Tous les fichiers nécessaires sont disponibles dans la branche "main" de ce dépôt Git. Vous trouverez un dossier par vidéo. Le code dans chacun de ces dossiers représente l'état du projet au début de chaque vidéo. Vous pouvez également développer le projet vous-même en suivant les directives de l'instructeur. Auquel cas, vous trouverez les ressources nécessaires (images, fichiers JavaScript, etc.) dans le dossier 'Ressources' de ce dépôt Git.
+Tous les fichiers nécessaires sont disponibles dans la branche « main » de ce dépôt Git. Vous trouverez un dossier par vidéo. Le code dans chacun de ces dossiers représente l'état du projet au début de chaque vidéo. Vous pouvez également développer le projet vous-même en suivant les directives de l'instructeur. Auquel cas, vous trouverez les ressources nécessaires (images, fichiers JavaScript, etc.) dans le dossier 'Ressources' de ce dépôt Git.
 
 ## Installation
 
