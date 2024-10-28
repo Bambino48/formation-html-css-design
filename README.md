@@ -1,4 +1,4 @@
-# L’intégration web : Coder un design en HTML et CSS 	
+# L’intégration web : Coder un design en HTML et CSS
 
 Ce dossier Repository est lié au cours `L’intégration web : Coder un design en HTML et CSS`. Le cours entier est disponible sur [LinkedIn Learning][lil-course-url].
 
