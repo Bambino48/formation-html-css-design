@@ -27,8 +27,8 @@ Tous les fichiers nécessaires sont disponibles dans la branche « main » de ce
  Retrouvez mes autres formations sur [LinkedIn Learning][lil-URL-trainer].
 
 [0]: # (Replace these placeholder URLs with actual course URLs)
-[lil-course-url]: https://www.linkedin.com
-[lil-thumbnail-url]: https:
+[lil-course-url]: https://www.linkedin.com/learning/l-integration-web-coder-un-design-en-html-et-css
+[lil-thumbnail-url]: https://media.licdn.com/dms/image/v2/D4E0DAQEbgmuKX8xQcA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1729663606040?e=2147483647&v=beta&t=o-ItlwvuqCysxryftdVJITxTheepGtn1iNnvp-T4TXw
 [lil-URL-trainer]: https://www.linkedin.com/learning/instructors/damien-bruyndonckx
 
 [1]: # (End of FR-Instruction ###############################################################################################)
