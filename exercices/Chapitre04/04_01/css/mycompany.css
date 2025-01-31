@@ -12,8 +12,13 @@
   --white: #FFFFFF;
   --red: #951313;
   --green: #348b34;
+  box-sizing: border-box;
 }
 
+*, *::before, *::after {
+  box-sizing: inherit;
+
+}
 body {
   font-family: Roboto, sans-serif;
   color: var(--dark-grey);
@@ -35,7 +40,15 @@ h1, h2, h3, h4, h5, h6 {
 #mainHeader {
   background-color: var(--blue);
   color: var(--white);
-  height: 80px;
+  height: 50px;
+}
+#mainHeader .wrapper {
+  display: grid;
+  grid-template-columns: 150px 1fr;
+  grid-gap: 10px
+}
+#mainMenu {
+  display: none;
 }
 
 #mainFooter {
