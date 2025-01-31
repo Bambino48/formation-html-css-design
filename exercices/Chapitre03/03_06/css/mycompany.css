@@ -26,6 +26,12 @@ h1, h2, h3, h4, h5, h6 {
   color: var(--blue);
 }
 
+.wrapper {
+  width: 100%;
+  margin: 0 auto;
+  padding: 20px;
+}
+
 #mainHeader {
   background-color: var(--blue);
   color: var(--white);
@@ -36,4 +42,31 @@ h1, h2, h3, h4, h5, h6 {
   background-color: var(--blue);
   color: var(--white);
   margin-top: auto;
+}
+
+/* Adaptation de la taille de la police en fonction de la taille de l'écran */
+@media screen and (min-width: 576px) {
+  .wrapper {
+    width: 540px;
+  }
+}
+@media screen and (min-width: 768px) {
+  .wrapper {
+    width: 720px;
+  }
+}
+@media screen and (min-width: 992px) {
+  .wrapper {
+    width: 960px;
+  }
+}
+@media screen and (min-width: 1200px) {
+  .wrapper {
+    width: 1140px;
+  }
+}
+@media screen and (min-width: 1400px) {
+  .wrapper {
+    width: 1320px;
+  }
 }
