@@ -36,38 +36,61 @@ body {
 h1, h2, h3, h4, h5, h6 {
   color: var(--blue);
 }
-
+/*mainHeader*/
 #mainHeader {
   background-color: var(--blue);
   color: var(--white);
   height: 50px;
 }
-
 #mainHeader .wrapper {
   display: grid;
   grid-template-columns: 150px 1fr;
   grid-gap: 10px;
   align-items: center;
 }
-
+/*buttonWrapper*/
 #buttonWrapper {
   justify-self: end;
 }
-
+/*toggleButtonContainer*/
+#toggleButtonContainer {
+  width: 30px;
+  height: 20px;
+  display: flex;
+  align-items: center;
+}
+#toggleButtonContainer span, #toggleButtonContainer span::before, #toggleButtonContainer span::after {
+  display: block;
+  width: 30px;
+  height: 4px;
+  background-color: var(--white);
+  border-radius: 2px;
+  position: absolute;
+}
+#toggleButtonContainer span::before {
+  content: '';
+  margin-top: -8px;
+}
+#toggleButtonContainer span::after {
+  content: '';
+  margin-top: 8px;
+}
+/*menuToggler*/
 #menuToggler {
   display: none;
+  
 }
-
+/*mainMenu*/
 #mainMenu {
   display: none;
 }
-
+/*mainFooter*/
 #mainFooter {
   background-color: var(--blue);
   color: var(--white);
   margin-top: auto;
 }
-
+/*Adaptation sur les écrans*/
 @media screen and (min-width: 576px) {
   .wrapper {
     width: 540px;
